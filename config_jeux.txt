@@ -1,0 +1,15 @@
+# Liste des exécutables de jeux à surveiller.
+# Vous pouvez en ajouter un nouveau sur une nouvelle ligne.
+valorant-win64-shipping.exe
+fortniteclient-win64-shipping.exe
+destiny2.exe
+outriders-win64-shipping.exe
+terraria.exe
+diablo iv.exe
+rocketleague.exe
+cs2.exe
+league of legends.exe
+r5apex.exe
+rainbowsix.exe
+overwatch.exe
+pubg_exec.exe

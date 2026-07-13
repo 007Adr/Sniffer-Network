@@ -1,0 +1,3 @@
+valorant-win64-shipping.exe
+rocketleague.exe
+cs2.exe
